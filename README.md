@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on projects that empower individuals and decentralize systems, challenging traditional structures and promoting freedom through technology.
 - 📫 How to reach me: songjongti@gmail.com (Preferably, please encrypt your email. Sorry, Google, but we know you're reading our emails! 😄)
 - 🔐 PGP Public Key:
+  
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQGNBGb1ah0BDACmwoNWnd3XE38qvfpvzrbnHmZj69eXRCCvP6U7SipEcvJH+SLY
