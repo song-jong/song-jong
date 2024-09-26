@@ -2,7 +2,7 @@
 - 👀 I’m interested in Application Lifecycle Management, computer networks, encryption, cloud computing, CI/CD, Kubernetes, and Unix-like systems (especially Linux).
 - 🌱 I’m currently learning Rust, Bitcoin, Monero, and emerging network protocols like Nostr.
 - 💞️ I’m looking to collaborate on projects that empower individuals and decentralize systems, challenging traditional structures and promoting freedom through technology.
-- 📫 How to reach me: songjongti@gmail.com (Preferably, please encrypt your email. Sorry, Google, but we know you're reading our emails! 😄)
+- 📫 How to reach me: songjongti@gmail.com (Preferably, please encrypt your email.)
 - 🔐 PGP Public Key:
   
 -----BEGIN PGP PUBLIC KEY BLOCK-----
