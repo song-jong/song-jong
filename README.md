@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Songjong, and I’m a DevSecOps Engineer.
+- 👋 Hi, my name is Song Jong, and I’m a DevSecOps Engineer.
 - 👀 I’m interested in Application Lifecycle Management, computer networks, encryption, cloud computing, CI/CD, Kubernetes, and Unix-like systems (especially Linux).
 - 🌱 I’m currently learning Rust, Bitcoin, Monero, and emerging network protocols like Nostr.
 - 💞️ I’m looking to collaborate on projects that empower individuals and decentralize systems, challenging traditional structures and promoting freedom through technology.
