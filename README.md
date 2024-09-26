@@ -1,0 +1,47 @@
+- 👋 Hi, my name is Songjong, and I’m a DevSecOps Engineer.
+- 👀 I’m interested in Application Lifecycle Management, computer networks, encryption, cloud computing, CI/CD, Kubernetes, and Unix-like systems (especially Linux).
+- 🌱 I’m currently learning Rust, Bitcoin, Monero, and emerging network protocols like Nostr.
+- 💞️ I’m looking to collaborate on projects that empower individuals and decentralize systems, challenging traditional structures and promoting freedom through technology.
+- 📫 How to reach me: songjongti@gmail.com (Preferably, please encrypt your email. Sorry, Google, but we know you're reading our emails! 😄)
+- 🔐 PGP Public Key:
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+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
+GmkbVtslDAMJCBMHLA437g8PqaAhm9BY
+=jqpe
+-----END PGP PUBLIC KEY BLOCK-----
